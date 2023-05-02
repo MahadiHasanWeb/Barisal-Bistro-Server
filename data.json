@@ -1,62 +1,221 @@
 [
-    {
-      "id": "1",
-      "index": 0,
-      "chef_picture": "https://i.imgur.com/Lk95uT6.jpg",
-      "experience": 1,
-      "bio": "Meet Chef Mahadi Hasan, a talented and passionate chef with 2 years of experience in the culinary industry. Her love for cooking started at a young age when she would watch her grandmother prepare traditional family recipes in the kitchen. This sparked her interest in cooking, and she later attended culinary school to hone her skills. After graduating, Chef Mahadi Hasan worked at several renowned restaurants, where she gained hands-on experience in various cuisines and cooking techniques. Her specialties include French cuisine, seafood, and vegetarian dishes. She is known for her attention to detail, creativity, and ability to turn simple ingredients into delicious, flavorful dishes.",
-      "likes": 24,
-      "chef_name": "Mahadi Hasan",
-      "recipes_number": 3
-    },
-    {
-      "id": "2",
-      "index": 1,
-      "chef_picture": "https://i.imgur.com/Lk95uT6.jpg",
-      "experience": 1,
-      "bio": "Meet Chef Raihan Sheikh, a talented and passionate chef with 2 years of experience in the culinary industry. Her love for cooking started at a young age when she would watch her grandmother prepare traditional family recipes in the kitchen. This sparked her interest in cooking, and she later attended culinary school to hone her skills. After graduating, Chef Raihan Sheikh worked at several renowned restaurants, where she gained hands-on experience in various cuisines and cooking techniques. Her specialties include French cuisine, seafood, and vegetarian dishes. She is known for her attention to detail, creativity, and ability to turn simple ingredients into delicious, flavorful dishes.",
-      "likes": 24,
-      "chef_name": "Raihan Sheikh",
-      "recipes_number": 3
-    },
-    {
-      "id": "3",
-      "index": 2,
-      "chef_picture": "https://i.imgur.com/Lk95uT6.jpg",
-      "experience": 1,
-      "bio": "Meet Chef Ajoy Nandi, a talented and passionate chef with 2 years of experience in the culinary industry. Her love for cooking started at a young age when she would watch her grandmother prepare traditional family recipes in the kitchen. This sparked her interest in cooking, and she later attended culinary school to hone her skills. After graduating, Chef Ajoy Nandi worked at several renowned restaurants, where she gained hands-on experience in various cuisines and cooking techniques. Her specialties include French cuisine, seafood, and vegetarian dishes. She is known for her attention to detail, creativity, and ability to turn simple ingredients into delicious, flavorful dishes.",
-      "likes": 24,
-      "chef_name": "Ajoy Nandi",
-      "recipes_number": 3
-    },
-    {
-      "id": "4",
-      "index": 3,
-      "chef_picture": "https://i.imgur.com/Lk95uT6.jpg",
-      "experience": 1,
-      "bio": "Meet Chef Tahmim Mahfuj, a talented and passionate chef with 2 years of experience in the culinary industry. Her love for cooking started at a young age when she would watch her grandmother prepare traditional family recipes in the kitchen. This sparked her interest in cooking, and she later attended culinary school to hone her skills. After graduating, Chef Tahmim Mahfuj worked at several renowned restaurants, where she gained hands-on experience in various cuisines and cooking techniques. Her specialties include French cuisine, seafood, and vegetarian dishes. She is known for her attention to detail, creativity, and ability to turn simple ingredients into delicious, flavorful dishes.",
-      "likes": 24,
-      "chef_name": "Tahmim Mahfuj",
-      "recipes_number": 3
-    },
-    {
-      "id": "5",
-      "index": 4,
-      "chef_picture": "https://i.imgur.com/Lk95uT6.jpg",
-      "experience": 1,
-      "bio": "Meet Chef Imon Gazi, a talented and passionate chef with 2 years of experience in the culinary industry. Her love for cooking started at a young age when she would watch her grandmother prepare traditional family recipes in the kitchen. This sparked her interest in cooking, and she later attended culinary school to hone her skills. After graduating, Chef Imon Gazi worked at several renowned restaurants, where she gained hands-on experience in various cuisines and cooking techniques. Her specialties include French cuisine, seafood, and vegetarian dishes. She is known for her attention to detail, creativity, and ability to turn simple ingredients into delicious, flavorful dishes.",
-      "likes": 24,
-      "chef_name": "Imon Gazi",
-      "recipes_number": 3
-    },
-    {
-      "id": "6",
-      "index": 5,
-      "chef_picture": "https://i.imgur.com/Lk95uT6.jpg",
-      "experience": 1,
-      "bio": "Meet Chef Jesan Ahmed, a talented and passionate chef with 2 years of experience in the culinary industry. Her love for cooking started at a young age when she would watch her grandmother prepare traditional family recipes in the kitchen. This sparked her interest in cooking, and she later attended culinary school to hone her skills. After graduating, Chef Jesan Ahmed worked at several renowned restaurants, where she gained hands-on experience in various cuisines and cooking techniques. Her specialties include French cuisine, seafood, and vegetarian dishes. She is known for her attention to detail, creativity, and ability to turn simple ingredients into delicious, flavorful dishes.",
-      "likes": 24,
-      "chef_name": "Jesan Ahmed",
-      "recipes_number": 3
-    }
-  ]
+  {
+    "id": "1",
+    "index": 0,
+    "chef_picture": "https://i.imgur.com/Lk95uT6.jpg",
+    "experience": 1,
+    "bio": "Meet Chef Mahadi Hasan, a talented and passionate chef with 2 years of experience in the culinary industry. Her love for cooking started at a young age when she would watch her grandmother prepare traditional family recipes in the kitchen. This sparked her interest in cooking, and she later attended culinary school to hone her skills. After graduating, Chef Mahadi Hasan worked at several renowned restaurants, where she gained hands-on experience in various cuisines and cooking techniques. Her specialties include French cuisine, seafood, and vegetarian dishes. She is known for her attention to detail, creativity, and ability to turn simple ingredients into delicious, flavorful dishes.",
+    "food": [
+      {
+        "id": "6451038686d2b95538947c2c",
+        "index": 1,
+        "food_picture": "https://i.ytimg.com/vi/KgFZZes4DgE/maxresdefault.jpg",
+        "details": "Bangladeshi kacchi biriyani is a flavorful and aromatic rice dish that originated in the Bengal region of South Asia. It is a popular dish in Bangladesh, and is often served at special occasions such as weddings and festivals. The dish is made with basmati rice, tender meat (usually goat or beef), and a blend of aromatic spices such as cumin, cardamom, cinnamon, and bay leaves. The meat is marinated in yogurt and spices, then layered with rice and cooked in a sealed pot over a low flame, which allows the flavors to infuse into the rice. The dish is typically served with a side of cucumber and tomato salad, and a spicy chutney. Bangladeshi kacchi biriyani is known for its tender meat, aromatic rice, and rich flavors, and is a must-try dish for anyone who loves South Asian cuisine.",
+        "food_name": "Kacchi Biriyani"
+      },
+      {
+        "id": "64512b95538988147c2c",
+        "index": 5,
+        "food_picture": "https://i.ytimg.com/vi/Y6qxLZkJW00/maxresdefault.jpg",
+        "details": "Chicken roast is a popular dish in Bangladesh, especially during special occasions such as weddings and Eid celebrations. The dish consists of a whole chicken that is marinated in a blend of spices, which typically includes turmeric, chili powder, cumin, coriander, and garam masala. The marinated chicken is then roasted in an oven or over a charcoal grill until the skin is crispy and the meat is tender and juicy. Chicken roast is often served with a side of mashed potatoes or biryani rice, along with a variety of chutneys and salads. This dish is loved by many for its flavorful and aromatic taste, making it a staple in many Bangladeshi households.",
+        "food_name": "Chicken roast"
+      },
+      {
+        "id": "6451038686d2b538947c2c01",
+        "index": 6,
+        "food_picture": "https://www.dhakafoodster.com/wp-content/uploads/2021/08/Easy-Delicious-Beef-Tehari-Recipe.jpg",
+        "details": "Beef Tehari is a popular dish in Bangladesh, especially during the winter months. It is a flavorful rice dish made with beef, aromatic spices, and vegetables. The beef is first marinated in a blend of spices such as cumin, coriander, turmeric, and chili powder, then browned in a pan with onions and garlic. The rice is cooked separately with more spices, including cinnamon, cardamom, and bay leaves. The beef is then layered with the rice, along with potatoes, carrots, and peas, and simmered together until the flavors have melded. Beef Tehari is often served with a side of cucumber and tomato salad, and a spicy chutney. This dish is loved for its hearty flavors and warming qualities, making it a staple in many households across Bangladesh.",
+        "food_name": "Beef Tehari"
+      }
+    ],
+    "likes": 24,
+    "chef_name": "Mahadi Hasan",
+    "recipes_number": 3
+  },
+  {
+    "id": "2",
+    "index": 1,
+    "chef_picture": "https://i.imgur.com/Lk95uT6.jpg",
+    "experience": 1,
+    "bio": "Meet Chef Raihan Sheikh, a talented and passionate chef with 2 years of experience in the culinary industry. Her love for cooking started at a young age when she would watch her grandmother prepare traditional family recipes in the kitchen. This sparked her interest in cooking, and she later attended culinary school to hone her skills. After graduating, Chef Raihan Sheikh worked at several renowned restaurants, where she gained hands-on experience in various cuisines and cooking techniques. Her specialties include French cuisine, seafood, and vegetarian dishes. She is known for her attention to detail, creativity, and ability to turn simple ingredients into delicious, flavorful dishes.",
+    "food": [
+      {
+        "id": "64510686d2b95538947c2c",
+        "index": 2,
+        "food_picture": "https://i.imgur.com/u6VEsSS.jpg",
+        "details": "Chicken tikka is a popular South Asian dish made with boneless chicken pieces that are marinated in a blend of yogurt and spices, including turmeric, cumin, coriander, and ginger. The marinated chicken is then grilled on skewers until tender and charred, giving it a smoky flavor. Chicken tikka can be served as a main dish, or as a part of a larger meal such as a platter with various kebabs and sides. It is often accompanied by a cooling sauce made with yogurt and mint, and is enjoyed by people of all ages. Chicken tikka is a delicious and easy-to-make dish that has become a favorite of many around the world.",
+        "food_name": "Chicken tikka"
+      },
+      {
+        "id": "64518686d2b95538947c",
+        "index": 3,
+        "food_picture": "https://i.imgur.com/D6ItzY1.jpg",
+        "details": "Lamb chops are a popular dish made from tender and flavorful cuts of lamb meat. They are typically cut from the rib, loin, or shoulder of the lamb and can be prepared in a variety of ways, such as grilling, broiling, or pan-frying. Lamb chops are a great choice for a special occasion or a dinner party, as they are easy to prepare and can be dressed up with a variety of spices and sauces. Some popular seasoning options include rosemary, garlic, thyme, and cumin. Lamb chops are also a good source of protein and iron, making them a healthy and satisfying meal option. They pair well with a variety of sides, such as roasted vegetables, potatoes, or a simple salad.",
+        "food_name": "Lamb chops"
+      },
+      {
+        "id": "6451038686d2b538947c2c01",
+        "index": 6,
+        "food_picture": "https://www.dhakafoodster.com/wp-content/uploads/2021/08/Easy-Delicious-Beef-Tehari-Recipe.jpg",
+        "details": "Beef Tehari is a popular dish in Bangladesh, especially during the winter months. It is a flavorful rice dish made with beef, aromatic spices, and vegetables. The beef is first marinated in a blend of spices such as cumin, coriander, turmeric, and chili powder, then browned in a pan with onions and garlic. The rice is cooked separately with more spices, including cinnamon, cardamom, and bay leaves. The beef is then layered with the rice, along with potatoes, carrots, and peas, and simmered together until the flavors have melded. Beef Tehari is often served with a side of cucumber and tomato salad, and a spicy chutney. This dish is loved for its hearty flavors and warming qualities, making it a staple in many households across Bangladesh.",
+        "food_name": "Beef Tehari"
+      }
+    ],
+    "likes": 24,
+    "chef_name": "Raihan Sheikh",
+    "recipes_number": 3
+  },
+  {
+    "id": "3",
+    "index": 2,
+    "chef_picture": "https://i.imgur.com/Lk95uT6.jpg",
+    "experience": 1,
+    "bio": "Meet Chef Ajoy Nandi, a talented and passionate chef with 2 years of experience in the culinary industry. Her love for cooking started at a young age when she would watch her grandmother prepare traditional family recipes in the kitchen. This sparked her interest in cooking, and she later attended culinary school to hone her skills. After graduating, Chef Ajoy Nandi worked at several renowned restaurants, where she gained hands-on experience in various cuisines and cooking techniques. Her specialties include French cuisine, seafood, and vegetarian dishes. She is known for her attention to detail, creativity, and ability to turn simple ingredients into delicious, flavorful dishes.",
+    "food": [
+      {
+        "id": "6451038686d2b95538947c2c",
+        "index": 1,
+        "food_picture": "https://i.ytimg.com/vi/KgFZZes4DgE/maxresdefault.jpg",
+        "details": "Bangladeshi kacchi biriyani is a flavorful and aromatic rice dish that originated in the Bengal region of South Asia. It is a popular dish in Bangladesh, and is often served at special occasions such as weddings and festivals. The dish is made with basmati rice, tender meat (usually goat or beef), and a blend of aromatic spices such as cumin, cardamom, cinnamon, and bay leaves. The meat is marinated in yogurt and spices, then layered with rice and cooked in a sealed pot over a low flame, which allows the flavors to infuse into the rice. The dish is typically served with a side of cucumber and tomato salad, and a spicy chutney. Bangladeshi kacchi biriyani is known for its tender meat, aromatic rice, and rich flavors, and is a must-try dish for anyone who loves South Asian cuisine.",
+        "food_name": "Kacchi Biriyani"
+      },
+      {
+        "id": "64518686d2b95538947c",
+        "index": 3,
+        "food_picture": "https://i.imgur.com/D6ItzY1.jpg",
+        "details": "Lamb chops are a popular dish made from tender and flavorful cuts of lamb meat. They are typically cut from the rib, loin, or shoulder of the lamb and can be prepared in a variety of ways, such as grilling, broiling, or pan-frying. Lamb chops are a great choice for a special occasion or a dinner party, as they are easy to prepare and can be dressed up with a variety of spices and sauces. Some popular seasoning options include rosemary, garlic, thyme, and cumin. Lamb chops are also a good source of protein and iron, making them a healthy and satisfying meal option. They pair well with a variety of sides, such as roasted vegetables, potatoes, or a simple salad.",
+        "food_name": "Lamb chops"
+      },
+      {
+        "id": "64512b95538988147c2c",
+        "index": 5,
+        "food_picture": "https://i.ytimg.com/vi/Y6qxLZkJW00/maxresdefault.jpg",
+        "details": "Chicken roast is a popular dish in Bangladesh, especially during special occasions such as weddings and Eid celebrations. The dish consists of a whole chicken that is marinated in a blend of spices, which typically includes turmeric, chili powder, cumin, coriander, and garam masala. The marinated chicken is then roasted in an oven or over a charcoal grill until the skin is crispy and the meat is tender and juicy. Chicken roast is often served with a side of mashed potatoes or biryani rice, along with a variety of chutneys and salads. This dish is loved by many for its flavorful and aromatic taste, making it a staple in many Bangladeshi households.",
+        "food_name": "Chicken roast"
+      }
+    ],
+    "likes": 24,
+    "chef_name": "Ajoy Nandi",
+    "recipes_number": 3
+  },
+  {
+    "id": "4",
+    "index": 3,
+    "chef_picture": "https://i.imgur.com/Lk95uT6.jpg",
+    "experience": 1,
+    "bio": "Meet Chef Tahmim Mahfuj, a talented and passionate chef with 2 years of experience in the culinary industry. Her love for cooking started at a young age when she would watch her grandmother prepare traditional family recipes in the kitchen. This sparked her interest in cooking, and she later attended culinary school to hone her skills. After graduating, Chef Tahmim Mahfuj worked at several renowned restaurants, where she gained hands-on experience in various cuisines and cooking techniques. Her specialties include French cuisine, seafood, and vegetarian dishes. She is known for her attention to detail, creativity, and ability to turn simple ingredients into delicious, flavorful dishes.",
+    "food": [
+      {
+        "id": "64510686d2b95538947c2c",
+        "index": 2,
+        "food_picture": "https://i.imgur.com/u6VEsSS.jpg",
+        "details": "Chicken tikka is a popular South Asian dish made with boneless chicken pieces that are marinated in a blend of yogurt and spices, including turmeric, cumin, coriander, and ginger. The marinated chicken is then grilled on skewers until tender and charred, giving it a smoky flavor. Chicken tikka can be served as a main dish, or as a part of a larger meal such as a platter with various kebabs and sides. It is often accompanied by a cooling sauce made with yogurt and mint, and is enjoyed by people of all ages. Chicken tikka is a delicious and easy-to-make dish that has become a favorite of many around the world.",
+        "food_name": "Chicken tikka"
+      },
+      {
+        "id": "6451038686d2b9553847clc5",
+        "index": 4,
+        "food_picture": "https://i.imgur.com/cFHQENv.jpg",
+        "details": "Goat curry is a popular dish in Bangladesh, and is often served at family gatherings and special occasions. The dish is made by cooking tender pieces of goat meat in a flavorful curry sauce made with a blend of aromatic spices such as cumin, coriander, turmeric, and garam masala. The meat is typically marinated in yogurt and spices beforehand to help tenderize it and infuse it with flavor. The curry is usually served with a side of steamed rice or bread, and is garnished with fresh cilantro or chopped green onions. Goat curry is known for its tender meat and rich, bold flavors, and is a must-try dish for anyone who loves South Asian cuisine.",
+        "food_name": "Goat curry"
+      },
+      {
+        "id": "64512b95538988147c2c",
+        "index": 5,
+        "food_picture": "https://i.ytimg.com/vi/Y6qxLZkJW00/maxresdefault.jpg",
+        "details": "Chicken roast is a popular dish in Bangladesh, especially during special occasions such as weddings and Eid celebrations. The dish consists of a whole chicken that is marinated in a blend of spices, which typically includes turmeric, chili powder, cumin, coriander, and garam masala. The marinated chicken is then roasted in an oven or over a charcoal grill until the skin is crispy and the meat is tender and juicy. Chicken roast is often served with a side of mashed potatoes or biryani rice, along with a variety of chutneys and salads. This dish is loved by many for its flavorful and aromatic taste, making it a staple in many Bangladeshi households.",
+        "food_name": "Chicken roast"
+      }
+    ],
+    "likes": 24,
+    "chef_name": "Tahmim Mahfuj",
+    "recipes_number": 3
+  },
+  {
+    "id": "5",
+    "index": 4,
+    "chef_picture": "https://i.imgur.com/Lk95uT6.jpg",
+    "experience": 1,
+    "bio": "Meet Chef Imon Gazi, a talented and passionate chef with 2 years of experience in the culinary industry. Her love for cooking started at a young age when she would watch her grandmother prepare traditional family recipes in the kitchen. This sparked her interest in cooking, and she later attended culinary school to hone her skills. After graduating, Chef Imon Gazi worked at several renowned restaurants, where she gained hands-on experience in various cuisines and cooking techniques. Her specialties include French cuisine, seafood, and vegetarian dishes. She is known for her attention to detail, creativity, and ability to turn simple ingredients into delicious, flavorful dishes.",
+    "food": [
+      {
+        "id": "64518686d2b95538947c",
+        "index": 3,
+        "food_picture": "https://i.imgur.com/D6ItzY1.jpg",
+        "details": "Lamb chops are a popular dish made from tender and flavorful cuts of lamb meat. They are typically cut from the rib, loin, or shoulder of the lamb and can be prepared in a variety of ways, such as grilling, broiling, or pan-frying. Lamb chops are a great choice for a special occasion or a dinner party, as they are easy to prepare and can be dressed up with a variety of spices and sauces. Some popular seasoning options include rosemary, garlic, thyme, and cumin. Lamb chops are also a good source of protein and iron, making them a healthy and satisfying meal option. They pair well with a variety of sides, such as roasted vegetables, potatoes, or a simple salad.",
+        "food_name": "Lamb chops"
+      },
+      {
+        "id": "6451038686d2b9553847clc5",
+        "index": 4,
+        "food_picture": "https://i.imgur.com/cFHQENv.jpg",
+        "details": "Goat curry is a popular dish in Bangladesh, and is often served at family gatherings and special occasions. The dish is made by cooking tender pieces of goat meat in a flavorful curry sauce made with a blend of aromatic spices such as cumin, coriander, turmeric, and garam masala. The meat is typically marinated in yogurt and spices beforehand to help tenderize it and infuse it with flavor. The curry is usually served with a side of steamed rice or bread, and is garnished with fresh cilantro or chopped green onions. Goat curry is known for its tender meat and rich, bold flavors, and is a must-try dish for anyone who loves South Asian cuisine.",
+        "food_name": "Goat curry"
+      },
+      {
+        "id": "64512b95538988147c2c",
+        "index": 5,
+        "food_picture": "https://i.ytimg.com/vi/Y6qxLZkJW00/maxresdefault.jpg",
+        "details": "Chicken roast is a popular dish in Bangladesh, especially during special occasions such as weddings and Eid celebrations. The dish consists of a whole chicken that is marinated in a blend of spices, which typically includes turmeric, chili powder, cumin, coriander, and garam masala. The marinated chicken is then roasted in an oven or over a charcoal grill until the skin is crispy and the meat is tender and juicy. Chicken roast is often served with a side of mashed potatoes or biryani rice, along with a variety of chutneys and salads. This dish is loved by many for its flavorful and aromatic taste, making it a staple in many Bangladeshi households.",
+        "food_name": "Chicken roast"
+      }
+    ],
+    "likes": 24,
+    "chef_name": "Imon Gazi",
+    "recipes_number": 3
+  },
+  {
+    "id": "6",
+    "index": 5,
+    "chef_picture": "https://i.imgur.com/Lk95uT6.jpg",
+    "experience": 1,
+    "bio": "Meet Chef Jesan Ahmed, a talented and passionate chef with 2 years of experience in the culinary industry. Her love for cooking started at a young age when she would watch her grandmother prepare traditional family recipes in the kitchen. This sparked her interest in cooking, and she later attended culinary school to hone her skills. After graduating, Chef Jesan Ahmed worked at several renowned restaurants, where she gained hands-on experience in various cuisines and cooking techniques. Her specialties include French cuisine, seafood, and vegetarian dishes. She is known for her attention to detail, creativity, and ability to turn simple ingredients into delicious, flavorful dishes.",
+    "food": [
+      {
+          "id": "6451038686d2b95538947c2c",
+          "index": 1,
+          "food_picture": "https://i.ytimg.com/vi/KgFZZes4DgE/maxresdefault.jpg",
+          "details": "Bangladeshi kacchi biriyani is a flavorful and aromatic rice dish that originated in the Bengal region of South Asia. It is a popular dish in Bangladesh, and is often served at special occasions such as weddings and festivals. The dish is made with basmati rice, tender meat (usually goat or beef), and a blend of aromatic spices such as cumin, cardamom, cinnamon, and bay leaves. The meat is marinated in yogurt and spices, then layered with rice and cooked in a sealed pot over a low flame, which allows the flavors to infuse into the rice. The dish is typically served with a side of cucumber and tomato salad, and a spicy chutney. Bangladeshi kacchi biriyani is known for its tender meat, aromatic rice, and rich flavors, and is a must-try dish for anyone who loves South Asian cuisine.",
+          "food_name": "Kacchi Biriyani"
+      },
+      {
+          "id": "64510686d2b95538947c2c",
+          "index": 2,
+          "food_picture": "https://i.imgur.com/u6VEsSS.jpg",
+          "details": "Chicken tikka is a popular South Asian dish made with boneless chicken pieces that are marinated in a blend of yogurt and spices, including turmeric, cumin, coriander, and ginger. The marinated chicken is then grilled on skewers until tender and charred, giving it a smoky flavor. Chicken tikka can be served as a main dish, or as a part of a larger meal such as a platter with various kebabs and sides. It is often accompanied by a cooling sauce made with yogurt and mint, and is enjoyed by people of all ages. Chicken tikka is a delicious and easy-to-make dish that has become a favorite of many around the world.",
+          "food_name": "Chicken tikka"
+      },
+      {
+          "id": "64518686d2b95538947c",
+          "index": 3,
+          "food_picture": "https://i.imgur.com/D6ItzY1.jpg",
+          "details": "Lamb chops are a popular dish made from tender and flavorful cuts of lamb meat. They are typically cut from the rib, loin, or shoulder of the lamb and can be prepared in a variety of ways, such as grilling, broiling, or pan-frying. Lamb chops are a great choice for a special occasion or a dinner party, as they are easy to prepare and can be dressed up with a variety of spices and sauces. Some popular seasoning options include rosemary, garlic, thyme, and cumin. Lamb chops are also a good source of protein and iron, making them a healthy and satisfying meal option. They pair well with a variety of sides, such as roasted vegetables, potatoes, or a simple salad.",
+          "food_name": "Lamb chops"
+      },
+      {
+          "id": "6451038686d2b9553847clc5",
+          "index": 4,
+          "food_picture": "https://i.imgur.com/cFHQENv.jpg",
+          "details": "Goat curry is a popular dish in Bangladesh, and is often served at family gatherings and special occasions. The dish is made by cooking tender pieces of goat meat in a flavorful curry sauce made with a blend of aromatic spices such as cumin, coriander, turmeric, and garam masala. The meat is typically marinated in yogurt and spices beforehand to help tenderize it and infuse it with flavor. The curry is usually served with a side of steamed rice or bread, and is garnished with fresh cilantro or chopped green onions. Goat curry is known for its tender meat and rich, bold flavors, and is a must-try dish for anyone who loves South Asian cuisine.",
+          "food_name": "Goat curry"
+      },
+      {
+          "id": "64512b95538988147c2c",
+          "index": 5,
+          "food_picture": "https://i.ytimg.com/vi/Y6qxLZkJW00/maxresdefault.jpg",
+          "details": "Chicken roast is a popular dish in Bangladesh, especially during special occasions such as weddings and Eid celebrations. The dish consists of a whole chicken that is marinated in a blend of spices, which typically includes turmeric, chili powder, cumin, coriander, and garam masala. The marinated chicken is then roasted in an oven or over a charcoal grill until the skin is crispy and the meat is tender and juicy. Chicken roast is often served with a side of mashed potatoes or biryani rice, along with a variety of chutneys and salads. This dish is loved by many for its flavorful and aromatic taste, making it a staple in many Bangladeshi households.",
+          "food_name": "Chicken roast"
+      },
+      {
+          "id": "6451038686d2b538947c2c01",
+          "index": 6,
+          "food_picture": "https://www.dhakafoodster.com/wp-content/uploads/2021/08/Easy-Delicious-Beef-Tehari-Recipe.jpg",
+          "details": "Beef Tehari is a popular dish in Bangladesh, especially during the winter months. It is a flavorful rice dish made with beef, aromatic spices, and vegetables. The beef is first marinated in a blend of spices such as cumin, coriander, turmeric, and chili powder, then browned in a pan with onions and garlic. The rice is cooked separately with more spices, including cinnamon, cardamom, and bay leaves. The beef is then layered with the rice, along with potatoes, carrots, and peas, and simmered together until the flavors have melded. Beef Tehari is often served with a side of cucumber and tomato salad, and a spicy chutney. This dish is loved for its hearty flavors and warming qualities, making it a staple in many households across Bangladesh.",
+          "food_name": "Beef Tehari"
+      }
+  ],
+    "likes": 24,
+    "chef_name": "Jesan Ahmed",
+    "recipes_number": 6
+  }
+]
